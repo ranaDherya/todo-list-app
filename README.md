@@ -6,7 +6,7 @@ Material UI is used for icons.
 
 Link to app -> [https://todo-list-csz5905o3-ranadherya.vercel.app/](https://todo-list-csz5905o3-ranadherya.vercel.app/)
 
-## Functionality - <br>
+## Functionality
   1. New Tasks can be added.
   2. Tasks can be marked done by clicking on them.
   3. Done Tasks can be marksed undone by clicking on them.
