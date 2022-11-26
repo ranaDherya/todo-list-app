@@ -13,6 +13,7 @@ Link to app -> [https://todo-list-csz5905o3-ranadherya.vercel.app/](https://todo
   4. All tasks can be seen.
   5. Done Tasks can be cleared from list.
 
+
 ## Screenshots
 
 ![1](./screenshots/1.png)
@@ -20,3 +21,5 @@ Link to app -> [https://todo-list-csz5905o3-ranadherya.vercel.app/](https://todo
 ![3](./screenshots/3.png)
 ![4](./screenshots/4.png)
 ![5](./screenshots/5.png)
+
+
