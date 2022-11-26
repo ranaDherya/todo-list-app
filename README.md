@@ -10,6 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [https://todo-list-creator.netlify.app/](https://todo-list-creator.netlify.app/) to view it in your browser.
+[https://todo-list-csz5905o3-ranadherya.vercel.app/](https://todo-list-csz5905o3-ranadherya.vercel.app/)
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
